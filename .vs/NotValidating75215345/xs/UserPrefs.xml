@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{1E5FD08D-D806-4E1E-BC7A-70BA0819F5FF}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NotValidating75215345 PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NotValidating75215345/LoginPage.xaml.cs">
+    <Files>
+      <File FileName="NotValidating75215345/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="NotValidating75215345/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="NotValidating75215345/LoginPage.xaml" Line="1" Column="1" />
+      <File FileName="NotValidating75215345/App.xaml" />
+      <File FileName="NotValidating75215345/App.xaml.cs" />
+      <File FileName="NotValidating75215345/LoginModel.cs" Line="43" Column="10" />
+      <File FileName="NotValidating75215345/BaseViewModel.cs" Line="49" Column="10" />
+      <File FileName="NotValidating75215345/MauiProgram.cs" Line="25" Column="5" />
+      <File FileName="NotValidating75215345/LoginViewModel.cs" Line="1" Column="1" />
+      <File FileName="NotValidating75215345/Platforms/MacCatalyst/Program.cs" Line="13" Column="1" />
+      <File FileName="NotValidating75215345/LoginPage.xaml.cs" Line="22" Column="6" />
+      <File FileName="NotValidating75215345/ISecurityClient.cs" Line="1" Column="1" />
+      <File FileName="NotValidating75215345/SecurityClient.cs" Line="12" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NotValidating75215345" expanded="True">
+            <Node name="NotValidating75215345" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Platforms" expanded="True">
+                <Node name="MacCatalyst" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="LoginPage.xaml" expanded="True">
+                <Node name="LoginPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
