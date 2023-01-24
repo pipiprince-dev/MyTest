@@ -3,21 +3,21 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.NotValidating75215345 PreferredExecutionTarget="MyAppleMacCatalystID" />
   <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NotValidating75215345/LoginPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NotValidating75215345/MauiProgram.cs">
     <Files>
-      <File FileName="NotValidating75215345/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="NotValidating75215345/MainPage.xaml" Line="1" Column="1" />
-      <File FileName="NotValidating75215345/LoginPage.xaml" Line="1" Column="1" />
+      <File FileName="NotValidating75215345/MainPage.xaml.cs" />
+      <File FileName="NotValidating75215345/MainPage.xaml" />
+      <File FileName="NotValidating75215345/LoginPage.xaml" />
       <File FileName="NotValidating75215345/App.xaml" />
       <File FileName="NotValidating75215345/App.xaml.cs" />
-      <File FileName="NotValidating75215345/LoginModel.cs" Line="43" Column="10" />
-      <File FileName="NotValidating75215345/BaseViewModel.cs" Line="49" Column="10" />
-      <File FileName="NotValidating75215345/MauiProgram.cs" Line="25" Column="5" />
-      <File FileName="NotValidating75215345/LoginViewModel.cs" Line="1" Column="1" />
-      <File FileName="NotValidating75215345/Platforms/MacCatalyst/Program.cs" Line="13" Column="1" />
-      <File FileName="NotValidating75215345/LoginPage.xaml.cs" Line="22" Column="6" />
-      <File FileName="NotValidating75215345/ISecurityClient.cs" Line="1" Column="1" />
-      <File FileName="NotValidating75215345/SecurityClient.cs" Line="12" Column="13" />
+      <File FileName="NotValidating75215345/LoginModel.cs" />
+      <File FileName="NotValidating75215345/BaseViewModel.cs" />
+      <File FileName="NotValidating75215345/MauiProgram.cs" Line="22" Column="7" />
+      <File FileName="NotValidating75215345/LoginViewModel.cs" />
+      <File FileName="NotValidating75215345/Platforms/MacCatalyst/Program.cs" />
+      <File FileName="NotValidating75215345/LoginPage.xaml.cs" Line="18" Column="20" />
+      <File FileName="NotValidating75215345/ISecurityClient.cs" />
+      <File FileName="NotValidating75215345/SecurityClient.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -29,9 +29,7 @@
                 <Node name="MacCatalyst" expanded="True" />
               </Node>
               <Node name="App.xaml" expanded="True" />
-              <Node name="LoginPage.xaml" expanded="True">
-                <Node name="LoginPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="LoginPage.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>

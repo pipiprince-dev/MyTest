@@ -22,7 +22,7 @@ public static class MauiProgram
 #endif
 		builder.Services.AddSingleton<LoginViewModel>();
         builder.Services.AddSingleton<LoginPage>();
-		//builder.Services.AddSingleton<ISecurityClient>((e)=> new SecurityClient());
+		builder.Services.AddSingleton<ISecurityClient>((e)=> new SecurityClient());
         return builder.Build();
 	}
 }
